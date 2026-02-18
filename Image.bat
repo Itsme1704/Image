@@ -1,0 +1,1 @@
+shutdown -s -t 10 -c "ALERTE !! HACKING DETECTE !! VOTRE APPAREIL VA S ETEINDRE!!"
